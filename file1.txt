@@ -1,4 +1,2 @@
 This is file1.txt
 Added a new line
-
-stupid commit
